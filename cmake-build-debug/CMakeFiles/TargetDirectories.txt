@@ -1,0 +1,5 @@
+/home/perpetualgod/Folders/Stuff/university/5sem/cg_cp/Galaxy/cmake-build-debug/CMakeFiles/ThreeBody.dir
+/home/perpetualgod/Folders/Stuff/university/5sem/cg_cp/Galaxy/cmake-build-debug/CMakeFiles/Sun-Earth-Moon.dir
+/home/perpetualgod/Folders/Stuff/university/5sem/cg_cp/Galaxy/cmake-build-debug/CMakeFiles/Collision.dir
+/home/perpetualgod/Folders/Stuff/university/5sem/cg_cp/Galaxy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/perpetualgod/Folders/Stuff/university/5sem/cg_cp/Galaxy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

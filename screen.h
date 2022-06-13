@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 
-constexpr int WIDTH = 950, HEIGHT = 670;
+constexpr int WIDTH = 1650, HEIGHT = 450;
 constexpr int dW = 8, dH = 8;
 
 class Screen {
@@ -270,7 +270,7 @@ inline void Screen::Setup() {
 }
 
 #else
-#include <curses.h>
+#include "win/curses.h"
 #include <stdio.h>
 #include <sys/ioctl.h>
 #include <unistd.h>
